@@ -1,0 +1,2 @@
+I wasnot able to compute the average of the values due to slowness of my PC
+Also Insertion sort for 100000 and 1000000 got stuck so i left it
